@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @dongyunqianli
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+I want to be a technical fantastic one.
+what kind of person I want to be?
+What kind of person I will be?
+a geek, a technical learner handling the item with ease.
+<!---
+dongyunqianli/dongyunqianli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
